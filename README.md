@@ -1,7 +1,7 @@
 # Telco Analytics
 # Customer Churn & Revenue Risk Analysis Dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshot/dashboard_overview.png)
 
 ## 📌 Executive Summary
 This project provides an executive-ready **Power BI & SQL analytics solution** investigating customer retention, monthly recurring revenue (MRR) loss, and operational risk factors across **7,043 customer accounts**. 
