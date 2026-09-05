@@ -1,5 +1,5 @@
 # Telco Analytics
-# Customer Churn & Revenue Risk Analysis Dashboard
+# Customer Churn and Revenue Risk Analysis Dashboard
 
 ![Dashboard Overview](screenshot/dashboard_overview.png)
 
